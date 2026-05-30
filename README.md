@@ -16,10 +16,11 @@ I am passionate about writing fast soloutions to my very own problems. I teach m
 ## 
 ### My Languages:
 [![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,rust,java)]()
+
 always excited to learn more
 ### My tools:
-[![tools](https://skillicons.dev/icons?i=debian,idea,git,vscode,bash,vim)](
-)
+[![tools](https://skillicons.dev/icons?i=debian,idea,git,vscode,bash,vim)]()
+
 keeping it simple keeps things moving
 
 ### You can find me on
