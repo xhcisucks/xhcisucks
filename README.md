@@ -26,7 +26,7 @@ keeping it simple keeps things moving
 ### You can find me on
 [![find me on](https://skillicons.dev/icons?i=discord,gmail,github)]()
 
-Catch me on Discord `@mellurboo` or shoot me an email `myles@bleedkernel.com`
+Catch me on Discord `@xhcisucks` or shoot me an email `isabella@bleedkernel.com`
 
 if you want to find me on github, you're in the right place.
 
