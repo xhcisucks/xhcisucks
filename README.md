@@ -30,6 +30,6 @@ Catch me on Discord `@xhcisucks` or shoot me an email `isabella@bleedkernel.com`
 
 if you want to find me on github, you're in the right place.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mellurboo&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xhcisucks&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
