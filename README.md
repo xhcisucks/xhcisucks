@@ -2,7 +2,7 @@
 <div align="center">
 
 # Isabella Wilson
-18 Year Old Software Engineer From Nottingham, England. I also go by Mellurboo and xhcisucks Online
+<!--AGE-->18<!--/AGE--> Year Old Software Engineer From Nottingham, England. I also go by Mellurboo and xhcisucks Online
 I am passionate about writing fast soloutions to my very own problems. I teach myself through practice and sharing my work with others.
 
 ## About me
